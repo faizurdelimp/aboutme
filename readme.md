@@ -9,7 +9,7 @@
 ---
 
 - Languages - **HTML, CSS, SCSS, JavaScript**
-- Libraries/Frameworks: - **Bootstrap, Bulma, Cardinal, Materialize, React, JQuery, Web3.js**
+- Libraries/Frameworks: - **React, JQuery, Web3.js, Bootstrap, Bulma, Cardinal, Materialize**
 - Databases: - **MySQL and MongoDB**
 - Tools: - **CLI, Git, Github and Developer Tools**
 
