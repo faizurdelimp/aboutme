@@ -1,4 +1,4 @@
-## Hey Everyone 👋, I'm Faizur, a Front End Developer
+## Hey Everyone 👋, I'm Faizur Rahman, a Front End Developer
 
 <p><a href="https://github.com/faizurdelimp" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="#" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="#" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram" /></a>
