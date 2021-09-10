@@ -25,8 +25,8 @@
 ### Github Readme Stats
 
 ---
-
+<!-- 
 <a href="https://profile-summary-for-github.com/user/faizur11786">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=faizur11786" alt="Faizur's Github Account"/>
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizur11786&hide_langs_below=5&layout=compact" alt="sanchit's language stats"/>
-</a>
+</a> -->
